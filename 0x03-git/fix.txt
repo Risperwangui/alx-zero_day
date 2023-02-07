@@ -1,0 +1,1 @@
+This file has been added in order to make the commit 'Hot fix' on master branch since the checker is checking the master branch instead of the main branch
